@@ -1,0 +1,15 @@
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\obj\Debug\net6.0\refint\Example002_HelloUser.dll
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
+E:\GB_practise\Lectures_Csharp_Examples\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
