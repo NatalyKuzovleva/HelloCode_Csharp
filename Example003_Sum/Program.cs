@@ -11,11 +11,19 @@
 // Console.WriteLine(numberA + numberB);
 
 // Вариант 2
-int numberA = 31;
-int numberB = 58;
+// int numberA = 31;
+// int numberB = 58;
+// int result = numberA + numberB;
+// Console.WriteLine(result);
+
+// Вариант 3
+int numberA = new Random().Next(1, 10);   // 1, 2, 3, 4, ... 9
+int numberB = new Random().Next(1, 10);
+Console.WriteLine(numberA);
+Console.WriteLine(numberB);
 int result = numberA + numberB;
 Console.WriteLine(result);
-
+//Console.WriteLine($"Сумма чисел {numberA} и {numberB} равна {numberA + numberB}");
 
 // Мой вариант
 // Console.WriteLine("Введите первое число:");
